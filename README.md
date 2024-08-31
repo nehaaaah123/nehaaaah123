@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://codeandhack.com/wp-content/uploads/2023/06/coding-person-ws-theme.jpg"  />
+</div>
+
+###
+
 - 🔭 I’m currently working on **Personal Projects**
 
 - 👯 I’m looking to collaborate on **all kind of Full stack Projects**
