@@ -4,7 +4,6 @@
 <div align="center">
   <img height="300" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306618.jpg?t=st=1725133740~exp=1725137340~hmac=e4ad46d23cd0a108d71dbfa40885064529c11a2ccb6166bfa6776d02da6be868&w=1060"  />
 </div>
-###
 
 - 🔭 I’m currently working on **Personal Projects**
 
