@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web developer from Delhi, India</h3>
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img height="300" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306618.jpg?t=st=1725133740~exp=1725137340~hmac=e4ad46d23cd0a108d71dbfa40885064529c11a2ccb6166bfa6776d02da6be868&w=1060"  />
 </div>
-
 ###
 
 <div align="center">
