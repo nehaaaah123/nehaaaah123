@@ -6,12 +6,6 @@
 </div>
 ###
 
-<div align="center">
-  <img height="200" src="https://codeandhack.com/wp-content/uploads/2023/06/coding-person-ws-theme.jpg"  />
-</div>
-
-###
-
 - 🔭 I’m currently working on **Personal Projects**
 
 - 👯 I’m looking to collaborate on **all kind of Full stack Projects**
