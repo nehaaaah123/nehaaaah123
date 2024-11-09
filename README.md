@@ -35,3 +35,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehaaaah123&show_icons=true&locale=en&layout=compact" alt="nehaaaah123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehaaaah123&" alt="nehaaaah123" /></p>
 
+[![An image of @nehaaaa123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@nehaaaah123#)](https://holopin.io/@nehaaaah123#)
+
