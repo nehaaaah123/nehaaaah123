@@ -81,6 +81,16 @@ I'm a Computer Science graduate from GGSIPU with hands-on experience building ba
 </p>
 
 
+### 👀 Profile Views
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=nehaaaah123&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+
 ---
 
 [![An image of @nehaaaah123's Holopin badges](https://holopin.me/@nehaaaah123)](https://holopin.io/@nehaaaah123)
